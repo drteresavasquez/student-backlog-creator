@@ -1,0 +1,46 @@
+python3 gh-issues-import.py --source zoeames/angular-movie-history --target belv2c/angular-movie-history --open
+
+
+
+#Day 1 done
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target johnachor/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target lewiskg/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target cmurnick/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target alexsanchez728/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target hagansmith/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target GinaAntonini/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target kstoops815/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target waamber/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target gib-bowden/Angular-Movie-History --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target daviddassau/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target harringtonben/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target Matthensley777/angular-movie-history --open
+
+# Day 1 done - no board:
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target Junochop/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target DreRandaci/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target RobertShock/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target lady-ace/AngularMovieHistory --open
+
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target annamd115/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target EHolman7/angular-movie-history --open
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target jessrod11/angular-movie-history --open
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
