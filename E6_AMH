@@ -25,19 +25,66 @@ python3 gh-issues-import.py --source belv2c/angular-movie-history --target Rober
 python3 gh-issues-import.py --source zoeames/NSS-evening-class-curriculum --target zoeames/angular-movie-history --issues 32 33 34
 python3 gh-issues-import.py --source zoeames/angular-movie-history --target belv2c/angular-movie-history --issues 15 16 17
 
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target johnachor/angular-movie-history --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target lewiskg/angular-movie-history --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target cmurnick/angular-movie-history --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target alexsanchez728/angular-movie-history --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target hagansmith/angular-movie-history --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target GinaAntonini/angular-movie-history --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target kstoops815/angular-movie-history --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target waamber/angular-movie-history --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target gib-bowden/Angular-Movie-History --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target daviddassau/angular-movie-history --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target harringtonben/angular-movie-history --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target Matthensley777/angular-movie-history --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target lady-ace/AngularMovieHistory --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target Junochop/angular-movie-history --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target DreRandaci/angular-movie-history --issues 15 16 17
-python3 gh-issues-import.py --source belv2c/angular-movie-history --target RobertShock/angular-movie-history --issues 15 16 17
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target johnachor/angular-movie-history --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target lewiskg/angular-movie-history --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target cmurnick/angular-movie-history --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target alexsanchez728/angular-movie-history --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target hagansmith/angular-movie-history --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target GinaAntonini/angular-movie-history --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target kstoops815/angular-movie-history --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target waamber/angular-movie-history --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target gib-bowden/Angular-Movie-History --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target daviddassau/angular-movie-history --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target harringtonben/angular-movie-history --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target Matthensley777/angular-movie-history --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target lady-ace/AngularMovieHistory --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target Junochop/angular-movie-history --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target DreRandaci/angular-movie-history --issues 45 46
+python3 gh-issues-import.py --source belv2c/angular-movie-history --target RobertShock/angular-movie-history --issues 45 46
+
+
+
+
+python3 gh-issues-import.py --source nss-evening-cohort-9/chatty-teach --target nss-evening-cohort-10/chatty-group-project-professors --open
+
+
+
+python3 gh-issues-import.py --source nss-evening-cohort-10/chatty-group-project-professors --target nss-evening-cohort-10/chatty-group-project-tree-frogs --open
+python3 gh-issues-import.py --source nss-evening-cohort-10/chatty-group-project-professors --target nss-evening-cohort-10/chatty-group-project-glass-frogs --open
+python3 gh-issues-import.py --source nss-evening-cohort-10/chatty-group-project-professors --target nss-evening-cohort-10/chatty-group-project-tomato-frogs --open
+python3 gh-issues-import.py --source nss-evening-cohort-10/chatty-group-project-professors --target nss-evening-cohort-10/chatty-group-project-ghost-frogs --open
+python3 gh-issues-import.py --source nss-evening-cohort-10/chatty-group-project-professors --target nss-evening-cohort-10/chatty-group-project-fire-bellied-toads --open
+python3 gh-issues-import.py --source nss-evening-cohort-10/chatty-group-project-professors --target nss-evening-cohort-10/chatty-group-project-poison-dart-frogs --open
+python3 gh-issues-import.py --source nss-evening-cohort-10/chatty-group-project-professors --target nss-evening-cohort-10/chatty-group-project-pond-frogs --open
+python3 gh-issues-import.py --source nss-evening-cohort-10/chatty-group-project-professors --target nss-evening-cohort-10/ --open
+python3 gh-issues-import.py --source nss-evening-cohort-10/chatty-group-project-professors --target nss-evening-cohort-10/ --open
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
